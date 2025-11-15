@@ -9,4 +9,4 @@ to run:
 
 3. done!
 
-*not only works on debian based
+*only works on debian based
